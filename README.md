@@ -27,7 +27,7 @@ Write a story about a day when everything went wrong but ended with a surprising
 ## Contributors
 
 - [avvicky](https://github.com/avvicky)
-- [Ramya9756](https://github.com/Ramya9756)
+- [Ramya9756](https://github.com/Ramya9751)
 - [Madhavankn](https://github.com/Madhavankn)
 - [Aarthipriyamuniraj](https://github.com/Aarthipriyamuniraj)
 
